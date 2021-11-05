@@ -5,3 +5,5 @@ Image to a Pencil Sketch using Python(Conversion)
 Execute the following file Command
 
     python sketcher.py
+
+Paste Your Following Image In the Clone Repo and change the name in sketcher.py
